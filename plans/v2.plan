@@ -1,0 +1,8 @@
+# Baselines (so every scoreboard shows what we're beating)
+cp_fee.rs FEE_BPS=80
+v1_recenter.rs ARB_TRUST_PCT=50
+
+# v2: volatility-adaptive spread
+v2_volspread.rs
+v2_volspread.rs K_PCT=100,150,250 MIN_SPREAD_BPS=10,20,35
+v2_volspread.rs ARB_TRUST_PCT=35,50,65 VOL_SHIFT=4,6

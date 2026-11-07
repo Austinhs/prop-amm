@@ -1,0 +1,17 @@
+378.76	387.77	500	cp_fee FEE_BPS=80	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/cp_fee_FEE_BPS-80.rs
+462.73	471.26	500	v1_recenter ARB_TRUST_PCT=50	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v1_recenter_ARB_TRUST_PCT-50.rs
+483.95	490.70	500	v3_volfix K_PCT=50 MIN_SPREAD_BPS=10	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-50_MIN_SPREAD_BPS-10.rs
+484.18	491.04	500	v3_volfix K_PCT=50 MIN_SPREAD_BPS=25	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-50_MIN_SPREAD_BPS-25.rs
+490.81	498.62	500	v3_volfix K_PCT=50 MIN_SPREAD_BPS=40	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-50_MIN_SPREAD_BPS-40.rs
+457.38	462.13	500	v3_volfix K_PCT=75 MIN_SPREAD_BPS=10	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-75_MIN_SPREAD_BPS-10.rs
+458.27	462.85	500	v3_volfix K_PCT=75 MIN_SPREAD_BPS=25	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-75_MIN_SPREAD_BPS-25.rs
+458.11	462.64	500	v3_volfix K_PCT=75 MIN_SPREAD_BPS=40	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-75_MIN_SPREAD_BPS-40.rs
+384.85	387.39	500	v3_volfix K_PCT=100 MIN_SPREAD_BPS=10	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-100_MIN_SPREAD_BPS-10.rs
+384.85	387.39	500	v3_volfix K_PCT=100 MIN_SPREAD_BPS=25	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-100_MIN_SPREAD_BPS-25.rs
+385.06	387.59	500	v3_volfix K_PCT=100 MIN_SPREAD_BPS=40	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-100_MIN_SPREAD_BPS-40.rs
+294.35	293.31	500	v3_volfix K_PCT=150 MIN_SPREAD_BPS=10	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-150_MIN_SPREAD_BPS-10.rs
+294.35	293.31	500	v3_volfix K_PCT=150 MIN_SPREAD_BPS=25	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-150_MIN_SPREAD_BPS-25.rs
+294.35	293.31	500	v3_volfix K_PCT=150 MIN_SPREAD_BPS=40	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_K_PCT-150_MIN_SPREAD_BPS-40.rs
+401.28	407.52	500	v3_volfix ARB_TRUST_PCT=35	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_ARB_TRUST_PCT-35.rs
+384.85	387.39	500	v3_volfix ARB_TRUST_PCT=50	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_ARB_TRUST_PCT-50.rs
+324.63	325.04	500	v3_volfix ARB_TRUST_PCT=75	/home/austin/curvance/prop-amm/runs/20261106-215011/variants/v3_volfix_ARB_TRUST_PCT-75.rs

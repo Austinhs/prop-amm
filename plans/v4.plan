@@ -1,0 +1,9 @@
+# Baselines: current best (v3) and plain AMM
+cp_fee.rs FEE_BPS=80
+v3_volfix.rs K_PCT=50 MIN_SPREAD_BPS=40
+
+# v4: curve shape. FLAT_Y=0 means no flat segment (pure tail).
+v4_flat.rs FLAT_Y=0,10,20,40 DEPTH_PCT=25,50,100
+
+# v4: spread. K_PCT=0 means a constant spread of MIN_SPREAD_BPS.
+v4_flat.rs K_PCT=0,25,50 MIN_SPREAD_BPS=20,35,50

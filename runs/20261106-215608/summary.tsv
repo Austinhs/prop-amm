@@ -1,0 +1,23 @@
+378.76	387.77	500	cp_fee FEE_BPS=80	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/cp_fee_FEE_BPS-80.rs
+490.81	498.62	500	v3_volfix K_PCT=50 MIN_SPREAD_BPS=40	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v3_volfix_K_PCT-50_MIN_SPREAD_BPS-40.rs
+163.98	160.45	500	v4_flat FLAT_Y=0 DEPTH_PCT=25	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-0_DEPTH_PCT-25.rs
+280.86	281.21	500	v4_flat FLAT_Y=0 DEPTH_PCT=50	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-0_DEPTH_PCT-50.rs
+298.56	304.56	500	v4_flat FLAT_Y=0 DEPTH_PCT=100	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-0_DEPTH_PCT-100.rs
+192.65	189.92	500	v4_flat FLAT_Y=10 DEPTH_PCT=25	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-10_DEPTH_PCT-25.rs
+258.85	260.10	500	v4_flat FLAT_Y=10 DEPTH_PCT=50	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-10_DEPTH_PCT-50.rs
+239.55	244.73	500	v4_flat FLAT_Y=10 DEPTH_PCT=100	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-10_DEPTH_PCT-100.rs
+163.43	164.83	500	v4_flat FLAT_Y=20 DEPTH_PCT=25	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-20_DEPTH_PCT-25.rs
+194.93	197.97	500	v4_flat FLAT_Y=20 DEPTH_PCT=50	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-20_DEPTH_PCT-50.rs
+159.47	164.95	500	v4_flat FLAT_Y=20 DEPTH_PCT=100	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-20_DEPTH_PCT-100.rs
+42.97	51.51	500	v4_flat FLAT_Y=40 DEPTH_PCT=25	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-40_DEPTH_PCT-25.rs
+41.46	50.13	500	v4_flat FLAT_Y=40 DEPTH_PCT=50	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-40_DEPTH_PCT-50.rs
+-6.23	1.71	500	v4_flat FLAT_Y=40 DEPTH_PCT=100	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_FLAT_Y-40_DEPTH_PCT-100.rs
+-108.55	-94.58	500	v4_flat K_PCT=0 MIN_SPREAD_BPS=20	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_K_PCT-0_MIN_SPREAD_BPS-20.rs
+85.46	91.36	500	v4_flat K_PCT=0 MIN_SPREAD_BPS=35	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_K_PCT-0_MIN_SPREAD_BPS-35.rs
+211.48	213.00	500	v4_flat K_PCT=0 MIN_SPREAD_BPS=50	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_K_PCT-0_MIN_SPREAD_BPS-50.rs
+-81.87	-71.13	500	v4_flat K_PCT=25 MIN_SPREAD_BPS=20	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_K_PCT-25_MIN_SPREAD_BPS-20.rs
+91.16	96.01	500	v4_flat K_PCT=25 MIN_SPREAD_BPS=35	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_K_PCT-25_MIN_SPREAD_BPS-35.rs
+212.96	214.09	500	v4_flat K_PCT=25 MIN_SPREAD_BPS=50	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_K_PCT-25_MIN_SPREAD_BPS-50.rs
+180.54	183.30	500	v4_flat K_PCT=50 MIN_SPREAD_BPS=20	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_K_PCT-50_MIN_SPREAD_BPS-20.rs
+194.93	197.97	500	v4_flat K_PCT=50 MIN_SPREAD_BPS=35	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_K_PCT-50_MIN_SPREAD_BPS-35.rs
+243.09	242.79	500	v4_flat K_PCT=50 MIN_SPREAD_BPS=50	/home/austin/curvance/prop-amm/runs/20261106-215608/variants/v4_flat_K_PCT-50_MIN_SPREAD_BPS-50.rs

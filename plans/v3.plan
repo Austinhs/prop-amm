@@ -1,0 +1,7 @@
+# Baselines
+cp_fee.rs FEE_BPS=80
+v1_recenter.rs ARB_TRUST_PCT=50
+
+# v3: fixed vol estimator. MIN_SPREAD_BPS should matter now.
+v3_volfix.rs K_PCT=50,75,100,150 MIN_SPREAD_BPS=10,25,40
+v3_volfix.rs ARB_TRUST_PCT=35,50,75
